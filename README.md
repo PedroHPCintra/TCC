@@ -7,13 +7,13 @@ being visible even at daytime. Then, after weeks or months, they would vanish. T
 Today, we know these were not stars at all. Instead, they were watching the death of a star... a supernova! These supernovas throw imense amounts of neutrinos
 into space, enabling us to detect them by their neutrino signal.
 
-This repository is dedicated to the part of my final project that simulates an supernova detection at the Deep Underground Neutrino Detector (DUNE).
+This repository is dedicated to the part of my final project that simulates a supernova detection at the Deep Underground Neutrino Detector (DUNE).
 
 ## Prerequisites
 
--It is highly recommended that the person who reads this code understands, at some basic level, the process of supernova detection by neutrino signals
+* It is highly recommended that the person who reads this code understands, at some basic level, the process of supernova detection by neutrino signals
 
--Some prior knowledge in python :snake: is assumed (I try to be more didatic as possible)
+* Some prior knowledge in python :snake: is assumed (I try to be as more didatic as possible)
 
 ## Organization
 
