@@ -1,6 +1,6 @@
 # Supernova Neutrino Detection :telescope: :star:
 
-## This work is part of my undergraduation final project
+## This work is part of my undergrad final project
 Centuries ago, the chinese would record testemony of strange stars in the night sky. Those stars appeared once every few centuries, shining bright in the sky
 being visible even at daytime. Then, after weeks or months, they would vanish. The ancient chinese described these stars as *guest stars*.
 
