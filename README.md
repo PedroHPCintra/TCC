@@ -30,7 +30,7 @@ This repository contains 4 main files:
 
 * Another .csv file with data from simulations of DUNE's efficiency and the Neutrino-Argon cross-section by CC process
 
-* A final .csv, not used in the final project but that will be used in the future for a improvement in the results
+* A final .csv, not used in the final project that will be used in the future for a improvement in the results. That csv contains data from neutron mass distributions and will be used for better estimate of the total energy emitted by the supernova
 
 ## Author
 Pedro Henrique Pinheiro Cintra
