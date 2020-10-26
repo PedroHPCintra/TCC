@@ -17,14 +17,20 @@ This repository is dedicated to the part of my final project that simulates a su
 
 ## Organization
 
-... in construction
+This repository contains 4 main files:
 
 
-### Jupyter Notebooks :notebook:
+### Jupyter Notebook :notebook:
 
-* Jupyter Notebook Service *Some_environment_variable*.
+* Jupyter Notebook with the full code used for the simulations and adjustments for the final project
 
+### CSV files
 
-## Project Status
+* A .csv file containing data from the emission of neutrinos from supernova simulations with Monte Carlo
 
-* In development
+* Another .csv file with data from simulations of DUNE's efficiency and the Neutrino-Argon cross-section by CC process
+
+* A final .csv, not used in the final project but that will be used in the future for a improvement in the results
+
+## Author
+Pedro Henrique Pinheiro Cintra
